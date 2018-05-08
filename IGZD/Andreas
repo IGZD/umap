@@ -1,0 +1,27 @@
+
+Hallo, ich spreche deutsch :-)
+Ein guten Tag in die Runde und ersteinmal ein herzliches Dankeschön an alle, die mitgeholfen haben
+UMAP soweit zu programmieren wie es derzeit aussieht! Ich nutze es "nur".
+Ich bin dabei einen Teil unserer Datenbanken auch online darzustellen und habe dazu
+einige ältere Datenbanken zu Vergleichszwecken auf verschiedene Anwendungen geladen.
+UMAP hat mich hier bisher im Bereich Optik/ Design/ Datenbankstruktur fast überzeugt.
+
+Karte:  http://www.igzd.de/datenbank_a.htm
+
+Derzeit sehe ich nur 2 Dinge die ich für die Ansicht unserer Datenbank gern verbessert hätte.
+Zum Einen, das man die einzelnen Punkte diverser Flächen in einem Layer abschalten kann,
+so dass nur die Flächen übrig bleiben (oder die Punkte verkleinern). Auch das summieren von
+Punkten möchte ich ausschließen, da bei unterschiedlicher Farbwahl der Layer das Kartenbild
+immer noch zu bunt aussieht.
+Also so wie den darunterliegenden Karten.... nur Flächen- keine Punkte.
+
+Zweitens sind Luftbildaufnahmen von IGN France als Kartenlayer durch UMAP möglich; diese
+weisen jedoch für Deutschland eine zu geringe Auflösung  auf, auf welche ich gerade bei dieser Datenbank
+nicht verzichten möchte.
+
+Ansonsten bin ich sehr zufrieden und und möchte nur wissen,ob es möglich sein wird,
+UMAP bezüglich meiner 2 Wünsche anzupassen um unsere Datenbank hier
+eventuell dauerhaft weiter einzufügen.
+
+VG
+Andreas
